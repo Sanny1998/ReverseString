@@ -1,6 +1,11 @@
 import java.util.Scanner;
 
 public class First {
+    /**
+     * This Folder is for reverse the String
+     * @param s
+     * @return
+     */
     static String reverseString(String s){
         String reverse = "";
         if (s.isEmpty()){
